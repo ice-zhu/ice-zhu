@@ -8,7 +8,7 @@ My name is Yasmin, an ambitious software engineer with a Bsc. in Computer Scienc
 
 ✧ **./PHYSICS ENGINE** →  I developed a physics engine that simulates the motion of particles in a 2D space in Python calculated with Linear Algebra. The engine is capable of handling collisions, forces, and constraints, allowing for realistic simulations of physical systems.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 💼 [Portfolio](https://myasport.vercel.app/)
 
