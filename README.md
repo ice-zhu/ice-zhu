@@ -1,23 +1,15 @@
-## Hello and welcome👋
+## Hello and 안녕하세요👋
+My name is Yasmin, an ambitious software engineer with a Bsc. in Computer Science located in Sweden.
 
-<!--
-- 🔭 I’m currently working on my passion project, a social media project that combines LetterBox, GoodReads and IMDB, AnimeList all in one!
-- 🌱 I’m currently expanding my knowledge further in machine learning and embedded systems.  
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-- 🔭 I’m currently working on my passion project, a social media project that combines LetterBox, GoodReads and IMDB, AnimeList all in one!
-- 🌱 I’m currently expanding my knowledge further in machine learning and embedded systems.  
-- 👯 I have a bachelor in Computer Science with specialization in Systems Development.
-- 💭 Available for full time work positions.
+### Highlights of Projects and Internships
+✧ **./ML THESIS** → Developed multiple ML models using Verisure's dataset extracted from PowerBIe. We succesfully developed an ML model that classified application security related threats with 95.94% in F1 Score. [Publication](https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-77358)
 
-Backend Proficiency:
--> Java, Python, C# .NET.
+✧ **./MERELY EMISSIONS** → Worked as a backend developer at a startup. I was responsible for developing calculation scripts in Python using a REST API and also conducted multiple 1-1 UI/UX evaluation interviews.
 
-Frontend Proficiency:
--> HTML & CSS, JavaScript, TypeScript.
+✧ **./PHYSICS ENGINE** →  I developed a physics engine that simulates the motion of particles in a 2D space in Python calculated with Linear Algebra. The engine is capable of handling collisions, forces, and constraints, allowing for realistic simulations of physical systems.
 
-Frameworks and others:
--> React, Tailwind CSS, Bootstrap.
--> SQL, GitHub, Figma and much more.
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+💼 [Portfolio](https://myasport.vercel.app/)
+
+💭 Available for full time positions.
